@@ -432,6 +432,35 @@ Android 6.0采用的是loadLibrary,6.0之后都采用的是loadLibrary0; 同理 
 
 64位so文件hook流程和32位一样，只是因为inlinehook并不支持32位，所以我们使用[sandHook](https://github.com/asLody/SandHook)既支持32位、又支持64位
 
+SandHook使用正确姿势：
+```java
+（1）导包，将SandHook中cpp文件夹下的包全部导入到项目中，并修改CMakeLists.txt中添加native.cpp, 修改java层导入so库为sandHook-native
+（2）配置相关的环境
+	在配置文件build.gradle中配置
+	externalNativeBuild {
+	      cmake {
+		arguments '-DBUILD_TESTING=OFF'
+		cppFlags "-frtti -fexceptions -Wpointer-arith"
+		abiFilters 'armeabi-v7a', 'arm64-v8a'
+	      }
+	    }
+（3）编译可以成功通过
+（4）使用
+	const char * libc = "/system/lib64/libc.so";
+	old_fopen = reinterpret_cast<void *(*)(char *, char *)>(SandInlineHookSym(libc, "fopen",
+                                                                         reinterpret_cast<void *>(new_fopen)));
+参数2：hook的函数 参数3：新的函数
+
+添加原理hook旧函数的声明
+void* (*old_fopen)(char*,char*);
+实现新的函数功能
+void* new_fopen(char* a,char* b){
+    __android_log_print(6,"windaa","I am from new open %s",a);
+    return old_fopen(a,b);
+}
+（5）运行测试是否成功启动
+```
+
 我们将目标函数中的配置块注释，就可以发现在64位机器上运行我们目标函数生成的so就是为64位：
 
 ![image-20210919165617945](images/26.png)
