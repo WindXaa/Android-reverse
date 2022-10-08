@@ -3,9 +3,9 @@
 ## （1）加壳与脱壳
 
 - [01.Android加壳脱壳学习（1）——动态加载和类加载机制详解](https://bbs.pediy.com/thread-271538.htm)
-- [02.Android漏洞之战（11）——整体加壳原理和脱壳技巧详解](https://bbs.pediy.com/thread-273293.htm)
+- [02.Android加壳与脱壳（2）——整体壳加壳和脱壳原理详解](https://bbs.pediy.com/thread-273293.htm)
 - [03.Android加壳与脱壳（2）——制作简易第一代加壳器](https://mp.weixin.qq.com/s/LWTFNDV1dff8cdBakd1AOQ)
-- [04.Android加壳与脱壳（3）—— 一次加壳恶意应用检测的对抗](https://mp.weixin.qq.com/s/LYIASwSBq03b3_n7KW0AKw)
+- [04.Android加壳与脱壳（4）—— 一次加壳恶意应用检测的对抗](https://mp.weixin.qq.com/s/LYIASwSBq03b3_n7KW0AKw)
 
 ## （2）Xposed/源码定制篇
 
