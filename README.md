@@ -29,6 +29,7 @@
 
 - [01.Android恶意应用检测研究（1）—— Android恶意样本WifiKillerpro.apk分析](https://bbs.pediy.com/thread-268060.htm)
 - [02.Android恶意应用检测研究（2）—— 一次加壳恶意应用检测的对抗](https://mp.weixin.qq.com/s/LYIASwSBq03b3_n7KW0AKw)
+- [03.Android恶意应用检测研究（3）—— Android恶意样本分析——frida破解三层锁机样本](https://bbs.pediy.com/thread-269128.htm)
 ## 未完待续
 
 ===========================================================
