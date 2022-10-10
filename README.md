@@ -25,6 +25,8 @@
 
 ## （7）隐私合规框架——PPExtract设计与实现
 
+- [01.Android隐私合规检测（1）——动态脚本检测合规性](https://mp.weixin.qq.com/s/rSFZ7JynQwlYNlbipJ1oxQ)
+
 ## （8）恶意应用检测框架——MalDroid设计与实现
 
 - [01.Android恶意应用检测研究（1）—— Android恶意样本WifiKillerpro.apk分析](https://bbs.pediy.com/thread-268060.htm)
