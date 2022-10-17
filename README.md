@@ -6,6 +6,8 @@
 - [02.Android加壳与脱壳（2）——整体壳加壳和脱壳原理详解](https://bbs.pediy.com/thread-273293.htm)
 - [03.Android加壳与脱壳（3）——制作简易第一代加壳器](https://mp.weixin.qq.com/s/LWTFNDV1dff8cdBakd1AOQ)
 - [04.Android加壳与脱壳（4）—— 一次加壳恶意应用检测的对抗](https://mp.weixin.qq.com/s/LYIASwSBq03b3_n7KW0AKw)
+- [05.Android加壳与脱壳（5）—— 一代壳脱壳工具集](https://mp.weixin.qq.com/s/RpBA6_fWGRMbkEZUkaECog)
+
 
 ## （2）Xposed/源码定制篇
 
