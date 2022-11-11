@@ -36,11 +36,7 @@
 - [01.源码编译（1）——Android6.0源码编译详解](https://bbs.pediy.com/thread-269575.htm)
 - [02.源码编译（2）——Xopsed源码编译详解](https://bbs.pediy.com/thread-269616.htm)
 - [03.源码编译（3）——Xposed框架定制 ](https://bbs.pediy.com/thread-269627.htm)
-- [04.源码编译（4）——开机自动授权和强制授权]
-- [05.源码编译（5）——强制开启调试接口]
-- [06.源码编译（6）——绕过反调策略]
-- [07.源码编译（7）——root自定义]
-- [08.源码编译（8）——root指纹抹除及镜像净化]
+- [04.源码编译（4）——root定制与指纹抹除](https://mp.weixin.qq.com/s?__biz=MzI3MDQ1NDE2OA==&mid=2247484684&idx=1&sn=c5f0c9b525e820d198a4da3a7256bab9&chksm=ead199fbdda610ed1e26fc63bf80456c4b4646349e5d44206335d8ba38aeccc95b815d484a60&token=1324308020&lang=zh_CN#rd)
 
 ## （3）Web服务器探测篇
 
