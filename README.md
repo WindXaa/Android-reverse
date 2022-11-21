@@ -7,9 +7,9 @@
 - [03.Android加壳与脱壳（3）——制作简易第一代加壳器](https://mp.weixin.qq.com/s/LWTFNDV1dff8cdBakd1AOQ)
 - [04.Android加壳与脱壳（4）—— 一次加壳恶意应用检测的对抗](https://mp.weixin.qq.com/s/LYIASwSBq03b3_n7KW0AKw)
 - [05.Android加壳与脱壳（5）—— 一代壳脱壳工具集](https://mp.weixin.qq.com/s/RpBA6_fWGRMbkEZUkaECog)
-- 06.Android加壳与脱壳（6）—— 一不落地加载壳的分析与实现
-- 07.Android加壳与脱壳（7）—— 一不落地加载壳加壳器的实现
-- 08.Android加壳与脱壳（8）—— 一整体壳的脱壳原理总结
+- [06.Android加壳与脱壳（6）——各类加壳器和分析项目推荐](https://mp.weixin.qq.com/s?__biz=MzI3MDQ1NDE2OA==&mid=2247484559&idx=1&sn=073f1f53c8a68096a124bb1f9577ff2d&chksm=ead19878dda6116eb1bb1aaf006e2502ffad9cbd54e0a8c37ccb483513631437e2d6ca761e5a&token=1969623902&lang=zh_CN#rd)
+- [07.Android加壳与脱壳（7）——Fdex2源码赏析](https://mp.weixin.qq.com/s/OYb3cXPhWwjCqCz2es6iaA)
+- [08.Android加壳与脱壳（8）——Fdex2版本扩展实现](https://mp.weixin.qq.com/s/h7gqmqE49UBrOfh2OYl-KQ)
 - 09.Android加壳与脱壳（9）—— 一函数抽取壳的原理解析
 - 10.Android加壳与脱壳（10）—— 一填充型+偏移型抽取壳的原理解析
 - 11.Android加壳与脱壳（11）—— 一自解密型抽取壳的原理解析
@@ -59,6 +59,10 @@
 - [03.Android恶意应用检测研究（3）—— Android恶意样本分析——frida破解三层锁机样本](https://bbs.pediy.com/thread-269128.htm)
 ## 未完待续
 
+详细可以关注微信公众号：安全后厨，进入加壳与脱壳合集，方便学习
+
+![加壳](https://tvax1.sinaimg.cn/wap360/006jP03Oly1h8d0k1zphkj30ij0pj7b2.jpg)
+
 ===========================================================
 
 ## 相关附件，存放在知识星球，欢迎加入知识星球——安全后厨
@@ -68,3 +72,5 @@
 考虑加群的广告号太多，需要加微信群朋友，加小编微信，回复:安全后厨
 
 ![640](https://tva3.sinaimg.cn/wap360/006jP03Oly1h7zufjtez2j30tu14fjur.jpg)
+
+
