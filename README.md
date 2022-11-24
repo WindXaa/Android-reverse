@@ -10,7 +10,7 @@
 - [06.Android加壳与脱壳（6）——各类加壳器和分析项目推荐](https://mp.weixin.qq.com/s?__biz=MzI3MDQ1NDE2OA==&mid=2247484559&idx=1&sn=073f1f53c8a68096a124bb1f9577ff2d&chksm=ead19878dda6116eb1bb1aaf006e2502ffad9cbd54e0a8c37ccb483513631437e2d6ca761e5a&token=1969623902&lang=zh_CN#rd)
 - [07.Android加壳与脱壳（7）——Fdex2源码赏析](https://mp.weixin.qq.com/s/OYb3cXPhWwjCqCz2es6iaA)
 - [08.Android加壳与脱壳（8）——Fdex2版本扩展实现](https://mp.weixin.qq.com/s/h7gqmqE49UBrOfh2OYl-KQ)
-- [09.Android加壳与脱壳（9）—— 一youpk脱壳机源码解析](https://mp.weixin.qq.com/s?__biz=MzI3MDQ1NDE2OA==&mid=2247485074&idx=1&sn=89c3e5317e5f44e61c905e25060262f3&chksm=ead19a65dda613732641374764d1fd33c0396a7eef7a64fd5a1edea2d74cc2c16f6f4e19e08c&token=940465125&lang=zh_CN#rd)
+- [09.Android加壳与脱壳（9）—— youpk脱壳机源码解析](https://mp.weixin.qq.com/s?__biz=MzI3MDQ1NDE2OA==&mid=2247485074&idx=1&sn=89c3e5317e5f44e61c905e25060262f3&chksm=ead19a65dda613732641374764d1fd33c0396a7eef7a64fd5a1edea2d74cc2c16f6f4e19e08c&token=940465125&lang=zh_CN#rd)
 - 10.Android加壳与脱壳（10）—— 一填充型+偏移型抽取壳的原理解析
 - 11.Android加壳与脱壳（11）—— 一自解密型抽取壳的原理解析
 - 12.Android加壳与脱壳（12）—— 一抽取壳脱壳方法详解
